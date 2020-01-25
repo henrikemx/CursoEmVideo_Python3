@@ -1,0 +1,7 @@
+print('='*40)
+print('=> Quantos segundos há em 3 horas, 23 minutos e 17 segundos?')
+print(f'Se 1 min = 60 seg, então 23 min = {60 * 23} seg.')
+print(f'Se 1 hora = 60 min, então 3 horas = {3 * 60} min.')
+print(f'Se 3 horas = {3 * 60} min., então 3 horas terá {(3*60)*60} seg.')
+print(f'=> 03 horas, 23 min. e 17 seg tem, no total, {((3*60)*60) + (23 * 60) + 17} seg.')
+print('='*40)
